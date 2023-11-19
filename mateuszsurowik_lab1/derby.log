@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 19 13:44:50 CET 2023:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088) systemu Derby: instancja a816c00e-018b-e79c-bb3e-000002c00000
+w katalogu bazy danych /home/student/NetBeansProjects/LAB1indywidual/mateuszsurowik_database/mateuszsurowik_db sun.misc.Launcher$AppClassLoader@d716361 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-8u222-b10-1~deb9u1-b10
+user.dir=/home/student/NetBeansProjects/LAB1indywidual
+os.name=Linux
+os.arch=amd64
+os.version=4.9.0-11-amd64
+derby.system.home=null
+Uruchomiono program ładujący klasę bazy danych - derby.database.classpath=''
