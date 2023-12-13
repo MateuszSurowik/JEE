@@ -1,0 +1,36 @@
+Wed Dec 13 23:16:59 CET 2023 : Serwer sieciowy Apache Derby - 10.13.1.1 - (1765088) uruchomiony i gotowy do zaakceptowania połączeń na porcie 1527 w {3} 
+----------------------------------------------------------------
+Wed Dec 13 23:16:59 CET 2023:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088) systemu Derby: instancja a816c00e-018c-6541-2ca5-ffff9ae1a65b
+w katalogu bazy danych /home/student/NetBeansProjects/Lab2solo/db/database sun.misc.Launcher$AppClassLoader@4d7e1886 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-8u222-b10-1~deb9u1-b10
+user.dir=/home/student/Payara_Server/javadb
+os.name=Linux
+os.arch=amd64
+os.version=4.9.0-11-amd64
+derby.system.home=/home/student/NetBeansProjects/Lab2solo/db/database
+Uruchomiono program ładujący klasę bazy danych - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 13 23:17:18 CET 2023:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088) systemu Derby: instancja 98ec802c-018c-6541-2ca5-ffff9ae1a65b
+w katalogu bazy danych /home/student/NetBeansProjects/Lab2solo/db/database/database sun.misc.Launcher$AppClassLoader@4d7e1886 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-8u222-b10-1~deb9u1-b10
+user.dir=/home/student/Payara_Server/javadb
+os.name=Linux
+os.arch=amd64
+os.version=4.9.0-11-amd64
+derby.system.home=/home/student/NetBeansProjects/Lab2solo/db/database
+Uruchomiono program ładujący klasę bazy danych - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 13 23:18:16 CET 2023: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Dec 13 23:18:16 CET 2023:
+Wyłączanie instancji 98ec802c-018c-6541-2ca5-ffff9ae1a65b
+----------------------------------------------------------------
+Wed Dec 13 23:18:16 CET 2023:
+Wyłączanie instancji a816c00e-018c-6541-2ca5-ffff9ae1a65b
+----------------------------------------------------------------

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab2-Derby</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style/css/components.css">
+    <link rel="stylesheet" href="Style/css/icons.css">
+    <link rel="stylesheet" href="Style/css/responsee.css">
+</head>
+<body>
+    <p>Lista pracowników</p>
+    <form class="customform" action="./wypisywanie">
+        Podaj nazwę instytucji
+        <input type="text" name="inst">
+        <div class="s-12 m-5 l-2 left">
+            <button type="submit">Wypisz pracowników</button>
+        </div>
+    </form>
+
+    <h2>Dodaj nowe dane</h2>
+    <form action="./wypisywanie" method="post">
+        Imię: <input type="text" name="name"><br><br>
+        Nazwisko: <input type="text" name="surname"><br><br>
+        <input type="submit" value="Dodaj dane">
+    </form>
+
+    <!-- Formularz dla edycji -->
+    <h2>Edytuj dane</h2>
+    <form action="./wypisywanie" method="post">
+        <input type="hidden" name="_method" value="PUT">
+        ID: <input type="text" name="Eid"><br><br>
+        Nowe imię: <input type="text" name="Ename"><br><br>
+        Nowe nazwisko: <input type="text" name="Esurname"><br><br>
+        <input type="submit" value="Edytuj dane">
+    </form>
+
+    <!-- Formularz dla usuwania -->
+    <h2>Usuń dane</h2>
+    <form action="./wypisywanie" method="post">
+        <input type="hidden" name="_method" value="DELETE">
+        ID: <input type="text" name="Did"><br><br>
+        <input type="submit" value="Usuń dane">
+    </form>
+    <h2>log</h2>
+    <form action="./logi">
+        
+        <input type="submit" value="logi">
+    </form>
+</body>
+</html>
