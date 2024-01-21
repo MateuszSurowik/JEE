@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rownania>
+    <rownanie id="1">
+        <liczba1>1</liczba1>
+        <znak>+</znak>
+        <liczba2>3</liczba2>
+        <wynik>4</wynik>
+    </rownanie>
+    <rownanie id="1705795915816">
+        <liczba1>3</liczba1>
+        <znak>+</znak>
+        <liczba2>2</liczba2>
+        <wynik>5</wynik>
+    </rownanie>
+
+    <rownanie id="1705796239125">
+        <liczba1>3</liczba1>
+        <znak>+</znak>
+        <liczba2>2</liczba2>
+        <wynik>5</wynik>
+    </rownanie>
+    <rownanie id="1705796254674">
+        <liczba1>9</liczba1>
+        <znak>+</znak>
+        <liczba2>67</liczba2>
+        <wynik>76</wynik>
+    </rownanie>
+</rownania>
+       
